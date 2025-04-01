@@ -1,2 +1,2 @@
 # JoseLD96.github.io
-Repositorio para Curso Lenguaje de Sistemas
+Repositorio para nuevo Curso Lenguaje de Sistemas
